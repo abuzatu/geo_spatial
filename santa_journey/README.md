@@ -1,0 +1,3 @@
+# General
+
+Created by Adrian Buzatu on 03 Dec 2020, as an example code for operational research of finding the optimum path between a sequence of points on a map, exemplified by Santa's trip on Christmas' Eve. Credit to original code and inspiration to [Pierre-Louis Bescond](https://towardsdatascience.com/help-santa-optimize-his-christmas-run-with-google-or-tools-geopandas-and-folium-9c4517f1a76d).  
