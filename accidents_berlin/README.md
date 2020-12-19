@@ -1,0 +1,1 @@
+This project explores the public data of Berlin car accidents in 2019 from [Daten.Berlin.de](https://daten.berlin.de/datensaetze/strassenverkehrsunf%C3%A4lle-nach-unfallort-berlin-2019).
