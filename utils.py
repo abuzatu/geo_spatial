@@ -27,6 +27,12 @@ def haversine(
     length = 6367 * c # in km
     return length
 
+def get_distance(lat_lon, lat_lon_reference):
+    # result in lat_lon units
+    # return np.sqrt((lat_lon[0]-lat_lon_reference[0])**2 + (lat_lon[1]-lat_lon_reference[1])**2)
+    # result as length in km
+    return haversine(lat_lon[0], lat_lon[1], lat_lon_reference[0], lat_lon_reference[1])
+
 def get_angle_degree(
     lat1: float,
     lon1: float,
